@@ -20,4 +20,3 @@ else:
   st.slider("Rating",0,5)
   if st.button("Submit"):
     st.header("Thanks for the rating")
-  
